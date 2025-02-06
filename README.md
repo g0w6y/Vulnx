@@ -42,7 +42,7 @@ The Clickjacking Vulnerability Tester is a web-based tool designed to help secur
 
 
 Check out the live page :
-https://g0w6y.github.io/vulnx/
+https://g0w6y.github.io/Vulnx/
 
 ### Disclaimer
 
